@@ -1,0 +1,216 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px){
+/*header*/
+.menu ul li a {
+	font-size: 20px;
+    padding: 10px 0 0px !important;
+    text-align: right;
+}
+/*slider*/
+    .slider {
+        padding-bottom: 70px;
+}
+    .indi {
+        bottom: -70px;
+}
+    .s_content {
+        margin-top:0;
+}
+    .s_content h1 {
+        font-size: 30px;
+}
+    .s_content h2 {
+        font-size: 18px;
+}
+    .s_content p {
+        margin-bottom: 25px;
+}
+    .iconul li{
+        margin-right: 25px !important;
+}
+    .iconul li i {
+        font-size: 35px;
+}
+
+/*features*/
+.f_padding {
+    padding: 60px 0;
+}
+.f_h1 {
+    font-size: 25px;
+}
+.f_p {
+    font-size: 18px;
+}
+.single{
+    margin-top: 35px;
+}
+.f_icon i{
+    font-size: 45px;
+}
+.f_text{
+    text-align: center;
+}
+.f_text h2{
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.f_text p{
+    line-height: 25px;
+}
+/*contact*/
+.c_form{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.c_input{
+    padding: 10px 10px;
+    height: 40px; 
+}
+.c_submit{
+    height: 40px;
+}  
+.c_icon{
+    margin-top: 35px;
+}
+/*footer*/
+.foot_1{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.foot_2{
+    margin-bottom: 30px;
+    text-align: center;
+}
+footer{
+    padding-bottom: 50px;
+}
+
+
+
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){
+/*header*/
+    .menu ul li a {
+	    font-size: 20px;
+        padding: 10px 0 0px !important;
+        text-align: right;
+}
+/*slider*/
+    .slider {
+        padding-bottom: 70px;
+}
+    .indi {
+        bottom: -70px;
+}
+    .s_content {
+        margin-top:0;
+}
+    .s_content h1 {
+        font-size: 30px;
+}
+    .s_content h2 {
+        font-size: 18px;
+}
+    .s_content p {
+        margin-bottom: 25px;
+}
+    .iconul li{
+        margin-right: 25px !important;
+}
+    .iconul li i {
+        font-size: 35px;
+}
+/*features*/
+.f_padding {
+        padding: 65px 0;
+}
+.f_h1 {
+    font-size: 25px;
+}
+.f_p {
+    font-size: 18px;
+}
+.single{
+    margin-top: 35px;
+}
+.f_icon i{
+    font-size: 45px;
+}
+.f_text{
+    text-align: center;
+}
+.f_text h2{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.f_text p{
+    line-height: 20px;
+}
+/*contact*/
+.c_form{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.c_input{
+    padding: 10px 10px;
+    height: 40px; 
+}
+.c_submit{
+    height: 40px;
+}
+.c_icon{
+    margin-top: 25px;
+}
+/*footer*/
+.foot_1{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.foot_2{
+    text-align: center;
+}
+
+
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px){
+/*header*/
+    .menu ul li a {
+        padding: 15px 0 0px !important;
+        text-align: right;
+}
+/*slider*/
+    .s_content {
+        margin-top: 60px;
+}   
+/*features*/
+    .f_padding {
+        padding: 80px 0;
+}
+.single{
+    margin-top: 45px;
+}
+.f_text{
+    text-align: center;
+}
+.f_text h2{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px){
+}
+/*extra large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+}
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px){
+} 
